@@ -7,7 +7,7 @@ Fetch cgm data of FreeStyle Libre 2/3 directly from abbot's sharing service.
 This client allows you to connect to abbot's sharing server which is also used by its application **LibreLinkUp**.
 
 If you plan to implement your own client or are interested in the sharing api you can find detailed
-information here: https://gist.github.com/khskekec/6c13ba01b10d3018d816706a32ae8ab2
+information here: https://gist.github.com/michal-repo/85d56f7a8d40bac338c05764e705b35b
 
 ## Installation
 
